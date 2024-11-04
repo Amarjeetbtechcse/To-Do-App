@@ -1,0 +1,32 @@
+
+div{
+    background-color: antiquewhite;
+    width:300px;
+    align-items: center;
+}
+
+
+h1{
+    background: rgb(4, 58, 29);
+    color: rgb(252, 228, 9);
+    width:auto;
+}
+ol{
+    background: rgb(127, 132, 127);
+    width:auto;
+    height: auto;
+}
+button{
+    background-color: red;
+    color: yellow;
+    font-weight:bold;
+}
+#addTask{
+    background: #85653b;
+}
+input{
+    background: rgb(98, 115, 122);
+}
+::placeholder{
+    background-color:pink;
+}
