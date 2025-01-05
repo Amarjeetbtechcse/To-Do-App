@@ -4,11 +4,9 @@ div{
     width:300px;
     align-items: center;
 }
-
-
 h1{
-    background: rgb(4, 58, 29);
-    color: rgb(252, 228, 9);
+    background: rgb(133, 134, 26);
+    color: rgb(89, 7, 242);
     width:auto;
 }
 ol{
@@ -18,7 +16,7 @@ ol{
 }
 button{
     background-color: red;
-    color: yellow;
+    color: rgb(70, 38, 200);
     font-weight:bold;
 }
 #addTask{
